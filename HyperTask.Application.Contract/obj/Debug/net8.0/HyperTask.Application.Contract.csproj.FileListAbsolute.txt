@@ -1,0 +1,12 @@
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Application.Contract\bin\Debug\net8.0\HyperTask.Application.Contract.deps.json
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Application.Contract\bin\Debug\net8.0\HyperTask.Application.Contract.dll
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Application.Contract\bin\Debug\net8.0\HyperTask.Application.Contract.pdb
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Application.Contract\obj\Debug\net8.0\HyperTask.Application.Contract.csproj.AssemblyReference.cache
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Application.Contract\obj\Debug\net8.0\HyperTask.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Application.Contract\obj\Debug\net8.0\HyperTask.Application.Contract.AssemblyInfoInputs.cache
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Application.Contract\obj\Debug\net8.0\HyperTask.Application.Contract.AssemblyInfo.cs
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Application.Contract\obj\Debug\net8.0\HyperTask.Application.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Application.Contract\obj\Debug\net8.0\HyperTask.Application.Contract.dll
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Application.Contract\obj\Debug\net8.0\refint\HyperTask.Application.Contract.dll
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Application.Contract\obj\Debug\net8.0\HyperTask.Application.Contract.pdb
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Application.Contract\obj\Debug\net8.0\ref\HyperTask.Application.Contract.dll

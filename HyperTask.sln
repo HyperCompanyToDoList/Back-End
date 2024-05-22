@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperTask.Domain", "HyperTask.Domain\HyperTask.Domain.csproj", "{F8B89CCC-D495-401F-9024-1441E7F46664}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperTask.EntityFrameworkCore", "HyperTask.EntityFrameworkCore\HyperTask.EntityFrameworkCore.csproj", "{DCE814E9-C255-4135-B636-7D33471D72B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperTask.Application", "HyperTask.Application\HyperTask.Application.csproj", "{071C189F-CF26-4A1B-A584-C92084E51489}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Emr.Common", "Emr.Common\Emr.Common.csproj", "{B64E8019-4AE6-44C7-B5E5-43498C058B4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperTask.Application.Contract", "HyperTask.Application.Contract\HyperTask.Application.Contract.csproj", "{F06B0166-9397-4F78-B20F-79BEA38A2297}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HyperTask.MvcWebApi", "HyperTask.MvcWebApi\HyperTask.MvcWebApi.csproj", "{DA7B2E6A-AF18-4706-915C-A9612AD23DA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8B89CCC-D495-401F-9024-1441E7F46664}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8B89CCC-D495-401F-9024-1441E7F46664}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8B89CCC-D495-401F-9024-1441E7F46664}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8B89CCC-D495-401F-9024-1441E7F46664}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCE814E9-C255-4135-B636-7D33471D72B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCE814E9-C255-4135-B636-7D33471D72B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCE814E9-C255-4135-B636-7D33471D72B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCE814E9-C255-4135-B636-7D33471D72B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{071C189F-CF26-4A1B-A584-C92084E51489}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{071C189F-CF26-4A1B-A584-C92084E51489}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{071C189F-CF26-4A1B-A584-C92084E51489}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{071C189F-CF26-4A1B-A584-C92084E51489}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64E8019-4AE6-44C7-B5E5-43498C058B4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64E8019-4AE6-44C7-B5E5-43498C058B4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64E8019-4AE6-44C7-B5E5-43498C058B4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64E8019-4AE6-44C7-B5E5-43498C058B4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F06B0166-9397-4F78-B20F-79BEA38A2297}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F06B0166-9397-4F78-B20F-79BEA38A2297}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F06B0166-9397-4F78-B20F-79BEA38A2297}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F06B0166-9397-4F78-B20F-79BEA38A2297}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA7B2E6A-AF18-4706-915C-A9612AD23DA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7B2E6A-AF18-4706-915C-A9612AD23DA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7B2E6A-AF18-4706-915C-A9612AD23DA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7B2E6A-AF18-4706-915C-A9612AD23DA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76B22915-706A-4D84-8AE0-CB927EB82E36}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\Emr.Common\bin\Debug\net8.0\Emr.Common.deps.json
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\Emr.Common\bin\Debug\net8.0\Emr.Common.dll
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\Emr.Common\bin\Debug\net8.0\Emr.Common.pdb
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\Emr.Common\obj\Debug\net8.0\Emr.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\Emr.Common\obj\Debug\net8.0\Emr.Common.AssemblyInfoInputs.cache
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\Emr.Common\obj\Debug\net8.0\Emr.Common.AssemblyInfo.cs
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\Emr.Common\obj\Debug\net8.0\Emr.Common.csproj.CoreCompileInputs.cache
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\Emr.Common\obj\Debug\net8.0\Emr.Common.dll
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\Emr.Common\obj\Debug\net8.0\refint\Emr.Common.dll
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\Emr.Common\obj\Debug\net8.0\Emr.Common.pdb
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\Emr.Common\obj\Debug\net8.0\ref\Emr.Common.dll

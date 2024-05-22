@@ -1,0 +1,6 @@
+@HyperTask.WebAPI_HostAddress = http://localhost:5073
+
+GET {{HyperTask.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

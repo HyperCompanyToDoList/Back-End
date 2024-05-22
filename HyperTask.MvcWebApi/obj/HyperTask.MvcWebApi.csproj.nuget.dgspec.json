@@ -1,0 +1,470 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.MvcWebApi\\HyperTask.MvcWebApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\Emr.Common\\Emr.Common.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\Emr.Common\\Emr.Common.csproj",
+        "projectName": "Emr.Common",
+        "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\Emr.Common\\Emr.Common.csproj",
+        "packagesPath": "C:\\Users\\Lord Kaizen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\Emr.Common\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lord Kaizen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application.Contract\\HyperTask.Application.Contract.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application.Contract\\HyperTask.Application.Contract.csproj",
+        "projectName": "HyperTask.Application.Contract",
+        "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application.Contract\\HyperTask.Application.Contract.csproj",
+        "packagesPath": "C:\\Users\\Lord Kaizen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application.Contract\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lord Kaizen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application\\HyperTask.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application\\HyperTask.Application.csproj",
+        "projectName": "HyperTask.Application",
+        "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application\\HyperTask.Application.csproj",
+        "packagesPath": "C:\\Users\\Lord Kaizen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lord Kaizen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application.Contract\\HyperTask.Application.Contract.csproj": {
+                "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application.Contract\\HyperTask.Application.Contract.csproj"
+              },
+              "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Domain\\HyperTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Domain\\HyperTask.Domain.csproj"
+              },
+              "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.EntityFrameworkCore\\HyperTask.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.EntityFrameworkCore\\HyperTask.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Domain\\HyperTask.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Domain\\HyperTask.Domain.csproj",
+        "projectName": "HyperTask.Domain",
+        "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Domain\\HyperTask.Domain.csproj",
+        "packagesPath": "C:\\Users\\Lord Kaizen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lord Kaizen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\Emr.Common\\Emr.Common.csproj": {
+                "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\Emr.Common\\Emr.Common.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.EntityFrameworkCore\\HyperTask.EntityFrameworkCore.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.EntityFrameworkCore\\HyperTask.EntityFrameworkCore.csproj",
+        "projectName": "HyperTask.EntityFrameworkCore",
+        "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.EntityFrameworkCore\\HyperTask.EntityFrameworkCore.csproj",
+        "packagesPath": "C:\\Users\\Lord Kaizen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.EntityFrameworkCore\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lord Kaizen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\Emr.Common\\Emr.Common.csproj": {
+                "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\Emr.Common\\Emr.Common.csproj"
+              },
+              "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Domain\\HyperTask.Domain.csproj": {
+                "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Domain\\HyperTask.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.MvcWebApi\\HyperTask.MvcWebApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.MvcWebApi\\HyperTask.MvcWebApi.csproj",
+        "projectName": "HyperTask.MvcWebApi",
+        "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.MvcWebApi\\HyperTask.MvcWebApi.csproj",
+        "packagesPath": "C:\\Users\\Lord Kaizen\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.MvcWebApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Lord Kaizen\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application.Contract\\HyperTask.Application.Contract.csproj": {
+                "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application.Contract\\HyperTask.Application.Contract.csproj"
+              },
+              "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application\\HyperTask.Application.csproj": {
+                "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application\\HyperTask.Application.csproj"
+              },
+              "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.EntityFrameworkCore\\HyperTask.EntityFrameworkCore.csproj": {
+                "projectPath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.EntityFrameworkCore\\HyperTask.EntityFrameworkCore.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

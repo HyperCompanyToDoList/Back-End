@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "Eytikhb9nApl87nzbMY5lLWGzW5gMlekRPJbdsDnLgk=",
+  "Source": "HyperTask.WebAPI",
+  "BasePath": "_content/HyperTask.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,15 @@
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\bin\Debug\net8.0\HyperTask.Domain.deps.json
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\bin\Debug\net8.0\HyperTask.Domain.dll
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\bin\Debug\net8.0\HyperTask.Domain.pdb
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\bin\Debug\net8.0\Emr.Common.dll
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\bin\Debug\net8.0\Emr.Common.pdb
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\obj\Debug\net8.0\HyperTask.Domain.csproj.AssemblyReference.cache
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\obj\Debug\net8.0\HyperTask.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\obj\Debug\net8.0\HyperTask.Domain.AssemblyInfoInputs.cache
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\obj\Debug\net8.0\HyperTask.Domain.AssemblyInfo.cs
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\obj\Debug\net8.0\HyperTask.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\obj\Debug\net8.0\HyperTas.E91CF852.Up2Date
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\obj\Debug\net8.0\HyperTask.Domain.dll
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\obj\Debug\net8.0\refint\HyperTask.Domain.dll
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\obj\Debug\net8.0\HyperTask.Domain.pdb
+C:\Users\Lord Kaizen\Desktop\hyper.task\HyperTask\HyperTask.Domain\obj\Debug\net8.0\ref\HyperTask.Domain.dll

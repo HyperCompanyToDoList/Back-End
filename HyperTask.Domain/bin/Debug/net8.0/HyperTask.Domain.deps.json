@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HyperTask.Domain/1.0.0": {
+        "dependencies": {
+          "Emr.Common": "1.0.0"
+        },
+        "runtime": {
+          "HyperTask.Domain.dll": {}
+        }
+      },
+      "Emr.Common/1.0.0": {
+        "runtime": {
+          "Emr.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HyperTask.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Emr.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

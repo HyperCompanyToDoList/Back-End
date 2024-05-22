@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L+jrKKjr3p+SIF949MHGv9oh60QnVbHAmjKSfxeJ3M9OlRUkprhZ3eJmE4hAPnHcHm5YQaskFN6oupwEJEmoZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Lord Kaizen\\source\\repos\\hyper\\HyperTask.Application.Contract\\HyperTask.Application.Contract.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lord Kaizen\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.1\\microsoft.extensions.dependencyinjection.abstractions.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

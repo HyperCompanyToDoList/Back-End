@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="13.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\HyperTask.Application.Contract\HyperTask.Application.Contract.csproj" />
+    <ProjectReference Include="..\HyperTask.Domain\HyperTask.Domain.csproj" />
+    <ProjectReference Include="..\HyperTask.EntityFrameworkCore\HyperTask.EntityFrameworkCore.csproj" />
+  </ItemGroup>
+
+</Project>
